@@ -70,4 +70,8 @@ section.container>div{
     #nav-list a{
         border: 1px solid;
     }
+    button{
+        position:relative;
+        bottom:20px;
+    }
 }
